@@ -1,1 +1,4 @@
 # New-York-City-AirBNBs
+This dataset includes all the AirBNB's located in various areas of the New York city. This contains all the necessary informations and comparisions between these AirBNB's so that user can make a decision for their stay.
+This dataset contains information of all the AirBNB's present in the New York City like name, price, minimum nights you have to stay, room type, number of reviews, number of reviews recieved per month nad availability of the AirBNB. The cost the AirBNB's have been filtered nad all are less than 500 U.S Dollars for every night.
+We have plotted plots of viualization for better understanding for the distribution of prices in the airbnb's, minimum number of nights for the stay, number of reviews given to that airbnb and some more. Also machine learning models have been added.
